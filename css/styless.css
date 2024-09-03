@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: auto;
+    width: auto;
+    background-image: url('fondoFinal.jpg');
+}
+
+.registro{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 20x;
+    
+}
+.select{
+    width: 50%;
+    background: #24303c;
+    border:1px solid #1f53c5;
+    color: rgba(255, 255, 255, 0.392); 
+    font-size: 15px;
+    border-radius: 4px;
+}
+.inputs{
+    width: 100%;
+    background-color:#24303c ;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border:1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px; 
+    color: white;
+}
+
+.labels{
+    font-size: 18px;
+    font-family: 'calibri';
+}
+
+.registro .boton{
+    width: 100%;
+    background:#1f53c5 ;
+    border:none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0; 
+    font-size: 16px; 
+    border-radius: 8px;
+}
+.registro .p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+.fileLoad{
+    width: 500px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+
+}
+.fileLoad .boton{
+    width: 100%;
+    background:#1f53c5 ;
+    border:none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0; 
+    font-size: 16px; 
+    border-radius: 8px;
+}
+.arch{
+    width: 100%;
+    background: #24303c;
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 0.392); 
+    font-size: 15px;
+    border-radius: 4px;
+}
+.a{
+    display: block;
+    width: 100%;
+    height:40px;
+    padding: 10px 30px;
+    font-family: 'calibri';
+    font-size: 18px;
+    background:#1f53c5 ;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    text-align: center;
+   
+}
